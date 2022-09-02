@@ -4,3 +4,5 @@ target/
 
 resources/application.properties
 
+lib/
+
